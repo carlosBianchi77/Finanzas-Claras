@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.finanzasclaras.app",
+        "sha256_cert_fingerprints": ["45:3F:92:1A:8E:89:84:D2:0E:38:03:6A:BC:83:00:CB:20:A1:66:A7:F6:CF:3B:D1:57:E2:7B:DE:C1:78:96:75"]
+      }
+    }]
